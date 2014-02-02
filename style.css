@@ -3,7 +3,6 @@
   padding: 0;
 }
 body {
-  background: url(images/talking-heads.jpg)
   font-family: georgia;
   font-size: 20px;
   line-height: 1.5;
@@ -22,6 +21,6 @@ header h1 {
 }
 section,
 aside {
-  width: 65%;
+  width: 60%;
   margin: 2em auto;
 }
